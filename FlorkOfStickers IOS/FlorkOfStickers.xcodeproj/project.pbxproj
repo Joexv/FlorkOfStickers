@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -115,11 +115,12 @@
 				};
 			};
 			buildConfigurationList = 025721DD1F83EE5A0044D008 /* Build configuration list for PBXProject "FlorkOfStickers" */;
-			compatibilityVersion = "Xcode 8.0";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 025721D91F83EE5A0044D008;
 			productRefGroup = 025721E11F83EE5A0044D008 /* Products */;
