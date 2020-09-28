@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "small"
+  },
   "stickers" : [
     {
       "filename" : "45.sticker"
@@ -509,13 +516,84 @@
     },
     {
       "filename" : "Maroon_NO_5.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_1.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_2.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_3.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_4.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_5.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_6.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_7.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_8.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_9.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_10.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_11.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_12.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_13.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_14.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_15.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_16.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_17.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_18.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_19.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_20.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_21.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_22.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_23.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_24.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_25.sticker"
+    },
+    {
+      "filename" : "The_Ones_Promised_26.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "small"
-  }
+  ]
 }
